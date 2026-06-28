@@ -51,7 +51,8 @@ button:hover {
 }
 
 fieldset (
-justify-self: start; 
+display: block;
+text-align: left;
 
 }
 
