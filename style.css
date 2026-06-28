@@ -50,6 +50,11 @@ button:hover {
   background-color: #f6f3f4;
 }
 
+fieldset (
+justify-self: start; 
+
+}
+
 #weatherResult {
   margin-top: 20px;
   font-size: 1rem;
@@ -90,6 +95,7 @@ footer {
 .snow {
   background: linear-gradient(to top, #e6dada, #274046);
 }
+
 
 .mist {
   background: linear-gradient(to top, #d3cce3, #e9e4f0);
